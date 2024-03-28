@@ -1,2 +1,0 @@
-# SandeepK
-MynewProject
